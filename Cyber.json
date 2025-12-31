@@ -10,7 +10,7 @@
       "max_devices": 1
     },
     {
-      "key": "TSEC201",
+      "key": "TEC201",
       "device_id": "8151c4af-b238-445b-9848-0b25747c1821", 
       "expiry_date": "2026-12-30",
       "active": true,
